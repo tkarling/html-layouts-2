@@ -1,0 +1,78 @@
+html, body {
+	width:100%;
+	height: 100%;
+	margin:0;
+}
+
+body {
+	position:relative;
+}
+
+p {
+	font-family: verdana;
+	font-size: 14px
+}
+
+.row {
+	width: 96%;
+	height: 15%;
+	/*border: 1px solid red;*/
+	position:relative;
+	top:10px;
+	left:2%;
+	margin-bottom:2%;
+}
+
+.highRow {
+	height:30%;
+}
+
+.rectWWhite {
+	width: 32%;
+	height: 92%;
+	position:relative;
+	top:4%;
+	float:left;
+	margin-right:2%;
+}
+
+.rectNoWhite {
+	height: 100%;
+	float:left;
+}
+
+.red {
+	background-color: #D01D1B;
+}
+
+.blue {
+	background-color: #4B91E1;
+}
+
+.grey {
+	background-color: #464646;
+	margin-right:0;
+}
+
+#threeOne {
+	width:30%;
+}
+
+#threeTwo {
+	width:70%;
+}
+
+#fourOne {
+	width:70%;
+}
+
+#fourTwo {
+	width:30%;
+}
+
+#fourThree {
+	width:70%;
+	height: 100%;
+	position:relative;
+	left:15%;
+}
